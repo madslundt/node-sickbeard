@@ -1,0 +1,20 @@
+{
+  "name": "node-sickbeard",
+  "description": "Node interface for Sick Beard",
+  "author": {
+    "name" : "Mads Lundt",
+    "email" : "madslundt@live.dk"
+  },
+  "keywords": [ "sickbeard", "shows", "series" ],
+  "version": "0.0.1",
+  "main": "lib/sickbeard.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:madslundt/node-sickbeard.git"
+  },
+  "homepage" : "https://github.com/madslundt/node-sickbeard",
+  "license": "GPL v2",
+  "bugs": {
+    "url": "https://github.com/madslundt/node-sickbeard/issues"
+  }
+}
