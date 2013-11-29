@@ -12,6 +12,13 @@
     "type": "git",
     "url": "git://github.com:madslundt/node-sickbeard.git"
   },
+  "dependencies": {
+    "q": "~0.8.12",
+    "querystring": "~0.2.0",
+    "util": "~0.10.0",
+    "url": "~0.7.9",
+    "request": "~2.9.203"
+  },
   "homepage" : "https://github.com/madslundt/node-sickbeard",
   "license": "GPL v2",
   "bugs": {
